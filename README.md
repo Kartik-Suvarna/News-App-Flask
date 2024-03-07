@@ -1,5 +1,5 @@
 # News App 📝
-### Immplmented using Flask and NewsAPI
+### Made using Flask and NewsAPI
 
 Deployed on : https://news-app-flask-uvvn.onrender.com
 
